@@ -8,6 +8,10 @@ We modify the code forked from https://github.com/david-gpu/srez to implement pa
 # Reqirements
 Tensorflow 1.13~ 1.08. Not support tensorflow 2.0 yet.
 
+# Pretrained Model
+The trained model for super-resolve 32x32 to 128x128 image can be downloaded from
+https://drive.google.com/file/d/1qvWqsRfP2hZrZzXOG4NmZRuxb7fHkFAe/view?usp=sharing
+
 # How to use
 ## Recommend: Use Jupyter Notebook env.
 ## Training with your own dataset:
