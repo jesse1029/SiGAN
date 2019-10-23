@@ -1,8 +1,6 @@
 # SiGAN
 
 [![SIGAN](https://cchsu.info/files/sigan.jpg "SIGAN")](https://cchsu.info/files/sigan.jpg "SIGAN")
-
-
 The implementation of paper Chih-Chung Hsu, Chia-Wen Lin, Weng-Tai Su, Gene Cheung, SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination, published in IEEE Transactions on Image Processing (TIP) 2019.
 Please cite if you use our code on your research.
 
@@ -47,7 +45,7 @@ to produce the super-resolved images sized of 128x128 from LR inputs 32x32.
 # Dataset
 Our dataset is based on "CASIA-WebFaces".
 
-#Citation
+# Citation
     @ARTICLE{8751141,
     author={C. {Hsu} and C. {Lin} and W. {Su} and G. {Cheung}},
     journal={IEEE Transactions on Image Processing},
